@@ -1,4 +1,4 @@
-# ImageProcessing
+# OCR
 
 To use the app, just donwload the "exe" file (It can be used on Windows only). Open the ".exe" file, browse your local disk to select an image that includes text. It will convert the text portion to editable text and output a ".txt" file with the file name same as your image.
 
